@@ -1,0 +1,32 @@
+<?php
+ 
+return [
+    'Speed management' => 'sped',
+    'Airbag type' => '',
+    'Fuel type' => '',
+    'Air conditioning' => '',
+    'Radio availability' => '',
+    'Consumption' => '',
+    'overall Kms' => '',
+    'Car manifacture year' => '',
+    'Price' => '',
+    'Available date' => '',
+    'Finishing date' => '',
+    'Starting location' => '',
+    'Final location' => '',
+    'notifications' => '',
+    'notifications' => '',
+    'notifications' => '',
+    'notifications' => '',
+    'notifications' => '',
+    'notifications' => '',
+    'notifications' => '',
+    'notifications' => '',
+    'notifications' => '',
+    'notifications' => '',
+    'notifications' => '',
+    'notifications' => '',
+    'notifications' => '',
+    'notifications' => '',
+    
+];

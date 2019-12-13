@@ -1,0 +1,224 @@
+.datepicker.dropdown-menu {
+    padding: 5px 21px;
+    border-radius: 0;
+}
+
+.thumbnail.thumbnail-featured .caption.hovered {
+    z-index: 0;
+}
+
+.fadeInRight {
+    z-index: 0;
+}
+
+.swiper {
+    z-index: 0;
+}
+
+.page-section.testimonials {
+    z-index: 0;
+}
+
+.page-section.contact {
+    z-index: 0;
+}
+
+.car-listing .media {
+    max-width: 30%;
+}
+
+.w100 {
+    min-width: 100%;
+}
+
+.has-error input {
+    border-color: #a94442 !important;
+}
+
+.has-success input {
+    border-color: #3c763d !important;
+}
+
+.top-menu {
+    margin-bottom: 0;
+    color: #000;
+    text-align: right;
+    font-weight: bold;
+    background: none;
+    /*border: none;*/
+    border-radius: 0;
+    box-shadow: none;
+    padding: 15px;
+}
+
+.has-error .dropify-wrapper {
+    border: 1px solid #a94442 !important;
+}
+
+.default-image {
+    margin: 0 auto;
+    box-shadow: none !important;
+}
+
+.modal-dialog {
+    z-index: 1000 !important;
+}
+
+.page-section.breadcrumbs {
+    z-index: 0;
+}
+
+.modal-body {
+    padding: 0;
+    text-align: center;
+}
+
+.modal-header {
+    padding: 5px;
+}
+
+.xzoom-cars-thumbs {
+    margin-left: 0 !important;
+}
+
+.xzoom-gallery, .xzoom-gallery2, .xzoom-gallery3, .xzoom-gallery4, .xzoom-gallery5 {
+    width: 78px;
+    height: 52px;
+}
+
+.slider, .widget.widget-filter-price #slider-range {
+    z-index: 0;
+}
+
+.car-flex-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.car-image {
+    max-height: 160px;
+}
+
+.header.fixed {
+    background-color: #fff;
+}
+
+@media (max-width: 1200px) {
+    .car-flex-item {
+        flex-direction: column;
+    }
+
+    .car-listing .media {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .title-and-price {
+        text-align: center;
+    }
+
+    .calendar {
+        text-align: center;
+    }
+
+    section.mounth {
+        margin: 0 auto;
+    }
+
+    .car-image {
+        max-height: unset;
+    }
+}
+
+.default-image {
+    margin: 0 auto;
+    box-shadow: none !important;
+}
+
+.modal-dialog {
+    z-index: 1000 !important;
+}
+
+.page-section.breadcrumbs {
+    z-index: 0;
+}
+
+.modal-body {
+    padding: 0;
+    text-align: center;
+}
+
+.modal-body img {
+    /*width: 100%;*/
+}
+
+.modal-header {
+    padding: 5px;
+}
+
+.xzoom-cars-thumbs {
+    margin-left: 0 !important;
+}
+
+.xzoom-gallery, .xzoom-gallery2, .xzoom-gallery3, .xzoom-gallery4, .xzoom-gallery5 {
+    width: 78px;
+    height: 52px;
+}
+.email, .phone {
+    display: flex;
+}
+.language-flex {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 35px;
+}
+.fllll {
+    display: flex;
+}
+.md-flex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+.fljc {
+    display: flex;
+    justify-content: space-between;
+}
+@media (max-width: 992px) {
+    .flex-email {
+        max-width: 297px;
+        flex-wrap: wrap;
+    }
+    .email, .phone {
+        flex-direction: column;
+    }
+    .phone {
+        margin-top: 20px;
+    }
+    .menu-toggle {
+        margin-right: 10px;
+    }
+    .form-search.light {
+        position: relative;
+        z-index: 2;
+    }
+    .language-flex {
+        justify-content: flex-start;
+    }
+    .fllll {
+        display: unset;
+    }
+    .md-flex {
+        display: unset;
+    }
+    .fljc {
+        display: unset;
+    }
+}
+
+.form-extras {
+    padding-bottom: 0;
+}
+.car-listing .thumbnail-car-card .table td {
+    vertical-align: middle;
+}
